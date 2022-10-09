@@ -173,7 +173,7 @@ State Central Library, Thiruvananthapuram, Kerala who approached regarding the p
 
 # AUTHOR
 
-Indranil Das Gupta <indradg@l2c2.co.inE> (on behalf of L2C2 Technologies).   
+Indranil Das Gupta <indradg@l2c2.co.in> (on behalf of L2C2 Technologies).   
 
 
 # COPYRIGHT AND LICENSE
